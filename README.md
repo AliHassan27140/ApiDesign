@@ -1,5 +1,5 @@
-# ApiDesign
-### Api Design in node.js 
+# Api Design Node.js
+## Api Design in node.js 
 ## Using Middlewares, handlers, 
 ## Using prisma as ORM for database schema
 ## Using Postgres Database
