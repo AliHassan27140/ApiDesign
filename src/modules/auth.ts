@@ -12,7 +12,7 @@ export const comparePassword =  (password, hash) => {
 
 export const hashPassword =  (password) => {
     return  bcrypt.hash(password, 5)
-    // 10 is the number of rounds
+    // 5 is the number of rounds
     // the more rounds the more secure the password
     // but the more time it takes to hash the password
     // salt is a random string that is added to the password
